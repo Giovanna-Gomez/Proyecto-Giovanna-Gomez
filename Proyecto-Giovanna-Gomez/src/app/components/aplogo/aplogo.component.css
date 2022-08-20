@@ -1,3 +1,19 @@
+.container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.redes{
+    margin-right: 0.5em;
+}
 #APLogo{
     width: 120px;
 }
+img {
+    width: 40px;
+}
+.btn{
+    margin-left: 0.5em;
+    border-width: medium;
+}
+
