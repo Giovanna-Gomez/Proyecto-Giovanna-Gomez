@@ -3,7 +3,7 @@
 }
 div{ 
     background-color: #FFFFFF;
-    text-align: center;
+    text-align:center;
 }
 /*estilo de la foto de perfil*/
 @media (min-width: 576px){
@@ -33,5 +33,5 @@ div{
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 30%;
+    margin-block-start: 10%;
 }
